@@ -4,7 +4,7 @@
   "description": "Experiment with simple CosmJS concepts.",
   "main": "index.js",
   "scripts": {
-    "experiment": "ts-node experiment.ts",
+    "experiment": "ts-node scripts/experiment.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "B9lab",
